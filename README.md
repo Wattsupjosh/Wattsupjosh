@@ -1,6 +1,6 @@
-- 👋 Hello Heroes...I’m WattsUpJosh, or DrJukeBox!
-- 👀 I'm fascinated with music, and space time!
-- 🌱 I’m currently learning python code, as a Dev.Op!
+- 👋 Hello Heroes...I am DrJukeBox,JeuxBauxRx, or WattsUpJosh!
+- 👀 I'm fascinated with music, and exploring space time!
+- 🌱 I’m currently Developing my Skills as a PLC programmer!
 - 💞️ I’m looking to collaborate on new projects for 2024!
 - 📫 You can reach me at... wattsupgranddad@gmail.com
 
